@@ -10,6 +10,9 @@ function showMap (latitude, longitude) {
 
 }
 
+/*
+MORE PROJECT description checking for looking to see on github. I don't know what is going on!
+ */
 function mybreakpoint(){
     var myelement = document.getElementsByTagName('h1')[0];
     for(i = 0; i<5;i++){
